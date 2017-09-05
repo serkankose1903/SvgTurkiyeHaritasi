@@ -1,0 +1,1 @@
+Svg halinde Türkiye haritası.
